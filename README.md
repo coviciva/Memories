@@ -18,11 +18,11 @@
 
 ## Features 
 
-* create memory
-* read memory
-* update memory
-* delete memory
-* like memory
+* create post
+* read post
+* update post
+* delete post
+* like post
 
 ![memories](https://user-images.githubusercontent.com/48959368/113489672-d81a4300-94c5-11eb-953c-3ed8e9f719dd.png)
 ![mem](https://user-images.githubusercontent.com/48959368/113489702-f08a5d80-94c5-11eb-9154-b4a347c3dd4f.png)
